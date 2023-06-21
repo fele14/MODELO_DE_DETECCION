@@ -10,6 +10,8 @@ Tener instalado:
  - pip install tqm
 
 Puedes usar las 2 versiones de python 3.7.6 o python 3.9.16
+# SI TIENES DIFICULTADES PUEDES CONSULTAR CON CHAT-GPT 
+
 
 # EXPLIACION DE LA ESTRUCTURA DE CODIGO Y LOGICA
 
