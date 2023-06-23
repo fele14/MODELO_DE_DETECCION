@@ -12,7 +12,5 @@ Tener instalado:
 Puedes usar las 2 versiones de python 3.7.6 o python 3.9.16
 # SI TIENES DIFICULTADES PUEDES CONSULTAR CON CHAT - GPT https://chat.openai.com
 
-- https://chat.openai.com/share/f82570b9-5502-4047-8481-65e98649af6f
-
 # EXPLICACION DE LA ESTRUCTURA DE CODIGO Y LOGICA
 
